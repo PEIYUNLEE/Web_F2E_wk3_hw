@@ -14,9 +14,11 @@ html{
 }
 body{
     width:1260px;
-    padding:0 160px;
     background-color: #edf2c5;
     font-family: arial;
+}
+.container{
+    padding:0 160px;
 }
 h1{
     font-size: 44px;
