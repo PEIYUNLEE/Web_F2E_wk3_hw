@@ -14,6 +14,7 @@ html{
 }
 body{
     width:1260px;
+    height: auto;
     background-color: #edf2c5;
     font-family: arial;
 }
