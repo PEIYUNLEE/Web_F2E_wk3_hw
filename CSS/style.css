@@ -34,11 +34,11 @@ header{
     justify-content: space-between;
     margin-bottom:5px;
 }
-.headline{
+.container_vegetables{
     width:271px;
     height:62px;
 }
-.header_right{
+.container_headerrightside{
     display:grid;
     grid-template-rows: 25px;
     grid-template-columns: 25px 25px 1px 60px 49px;
@@ -101,7 +101,7 @@ section{
     width:445px;
     height:200px;
 }
-.section_header{
+.box_section_header{
     background-color: #778a50;
     border-radius: 3px;
     color: #edf2c5;
@@ -120,22 +120,22 @@ h3{
     grid-template-rows: 140px;
     grid-template-columns: repeat(3,140px);
 }
-.rightside_article{
+.bg_contact_content{
     width:445px; 
     height:140px;
     background-color: #f7fbda;
 }
-.p_first{
+.contact_content_first{
     font-size: 12px;
     line-height: 1.25;
     color:#7d7d7d;
     padding:15px 15px 15px 15px;
 }
-.rightside_line{
+.line_contact_content{
     border-top:1px solid #7d7d7d;
     margin:0px 15px;
 }
-.p_second{
+.contact_content_second{
     font-size: 12px;
     line-height: 1.75;
     color:#7d7d7d;
